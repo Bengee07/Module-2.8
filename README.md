@@ -13,7 +13,7 @@ Learners will understand:
 - Insert the knowledge to be acquired
 
 Learners will be able to:
-- Insert the skillset to be acquired
+- Set up local machines for the software development
 
 
 ## Lesson Plan
