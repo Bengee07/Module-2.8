@@ -65,7 +65,9 @@ The final stage is to deploy the software to your endpoints finally. If you’ve
 
 ## Part 2 - CI/CD Concepts
 
-Insert Instructions
+CI and CD stand for continuous integration and continuous delivery/continuous deployment. In very simple terms, CI is a modern software development practice in which incremental code changes are made frequently and reliably. Automated build-and-test steps triggered by CI ensure that code changes being merged into the repository are reliable. The code is then delivered quickly and seamlessly as a part of the CD process. In the software world, the CI/CD pipeline refers to the automation that enables incremental code changes from developers’ desktops to be delivered quickly and reliably to production.
+
+CI/CD allows organizations to ship software quickly and efficiently. CI/CD facilitates an effective process for getting products to market faster than ever before, continuously delivering code into production, and ensuring an ongoing flow of new features and bug fixes via the most efficient delivery method. 
 
 ![image](https://user-images.githubusercontent.com/106639884/196317207-2181407b-83a8-4c47-990d-4d2d1703c9d6.png)
 
@@ -76,6 +78,8 @@ Insert Instructions
 ### CICD Tools
 ![image](https://user-images.githubusercontent.com/106639884/196317255-28111830-170b-48d1-929f-229fac39b2f1.png)
 
+
+**CICD will be sharpen on Module 3**
 
 ---
 
@@ -89,3 +93,5 @@ With containerization technology, there’s less overhead during startup and no 
 
 ![image](https://user-images.githubusercontent.com/106639884/196323476-2f099a1f-da3e-4f1b-858c-809b3efbd741.png)
 
+
+**Containerization will be sharpen on Module 3**
