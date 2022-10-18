@@ -81,4 +81,11 @@ Insert Instructions
 
 ## Part 3 - Containerization Concepts
 
-Insert Instructions
+Containerization is a form of virtualization where applications run in isolated user spaces, called containers, while using the same shared operating system (OS). One of the benefits of containerization is that a container is essentially a fully packaged and portable computing environment.
+
+Everything an application needs to run—its binaries, libraries, configuration files, and dependencies—is encapsulated and isolated in its container. The container itself is abstracted away from the host OS, with only limited access to underlying resources—much like a lightweight virtual machine (VM). As a result, the containerized application can be run on various types of infrastructure—on bare metal, within VMs, and in the cloud—without needing to refactor it for each environment.
+
+With containerization technology, there’s less overhead during startup and no need to set up a separate guest OS for each application since they all share the same OS kernel. Because of this high efficiency, containerization is commonly used for packaging up the many individual microservices that make up modern apps.
+
+![image](https://user-images.githubusercontent.com/106639884/196323476-2f099a1f-da3e-4f1b-858c-809b3efbd741.png)
+
