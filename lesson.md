@@ -33,6 +33,28 @@ Blue-green deployment starts by having the original environment plus a duplicate
 
 Once the new application is deployed, make sure that everything runs properly. If any issues crop up, traffic can be redirected to the old environment so that it continues to run seamlessly. When you’ve determined that the new environment is free of issues, you can switch back to the new environment and then end the old environment.
 
+### 5 Stages of a software deployment process
+
+**Plan**
+
+The first stage in a software deployment process is to make a plan. What software or application are you attempting to deploy? How many end-users do you have? What risks are involved? Be sure to consider these questions and more while creating your plan for software deployment.
+
+**Design**
+
+After making a plan for how to best approach the software deployment, design how your plan will be carried out effectively. Which kind of deployment will be the safest for your business’s data and operations? Do your end-users need to have the updated software simultaneously, or can software deployment be rolled out slowly? These goals can be accomplished through the different deployment types listed above.
+
+**Test**
+
+Various factors can go wrong with any new software deployment. One of the best ways to ensure that things don’t go awry in your IT environment is to create a test environment. Use simulations that imitate or are identical to your business’s actual. This testing allows you to detect any previously hidden issues before and ensure that the software is completely functional.
+
+**Schedule**
+
+Break your plan for software deployment into manageable-sized tasks. Then, using team members or automated software, create a schedule for when each of these tasks should be completed. Abiding by a schedule and assigning tasks out makes the software deployment process much more feasible and results in far fewer problems.
+
+**Deploy**
+
+The final stage is to deploy the software to your endpoints finally. If you’ve mindfully carried out the previous steps, sending out the software or patches should go smoothly.
+
 
 ---
 
