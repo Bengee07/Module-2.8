@@ -28,6 +28,7 @@ Selecting a methodology to establish a framework in which the steps of software 
 Basic deployment is the simplest type of software deployment. This type updates all the target environments simultaneously without any process or strategy. Because it doesn’t deploy software in a slow and controlled manner, it is the riskiest.
 
 **Blue-Green Deployment**
+
 Blue-green deployment starts by having the original environment plus a duplicate environment. This enables you to preserve the old environment while deploying the new application simultaneously.
 
 Once the new application is deployed, make sure that everything runs properly. If any issues crop up, traffic can be redirected to the old environment so that it continues to run seamlessly. When you’ve determined that the new environment is free of issues, you can switch back to the new environment and then end the old environment.
