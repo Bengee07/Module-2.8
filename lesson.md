@@ -67,6 +67,13 @@ The final stage is to deploy the software to your endpoints finally. If you’ve
 
 Insert Instructions
 
+![image](https://user-images.githubusercontent.com/106639884/196317207-2181407b-83a8-4c47-990d-4d2d1703c9d6.png)
+
+
+### CICD Tools
+![image](https://user-images.githubusercontent.com/106639884/196317255-28111830-170b-48d1-929f-229fac39b2f1.png)
+
+
 ---
 
 ## Part 3 - Containerization Concepts
