@@ -2,11 +2,16 @@
 
 ### Preparation
 
--
+Self Study Check In
+
+Q1: What will you choose Agile Methodology or Waterfall?
+
+Q2: What software do you know that is part of CICD?
+
 
 ### Lesson Overview
 
-Write about how instructors can brief the students at the start of the lesson. It is good to guide students through what is going to be covered and the outcome. Setting expectations.
+IT software deployment is a necessity in any organization’s IT environment. Software deployment can either make or break the transitions between software, which significantly affect business operations. That is why it’s essential to have a solid software deployment process in place.
 
 ---
 
