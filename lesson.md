@@ -10,18 +10,18 @@ Write about how instructors can brief the students at the start of the lesson. I
 
 ---
 
-## Part 1 - Insert Summary
+## Part 1 - Software Deployment
 
 Insert Instructions
 
 ---
 
-## Part 2 - Insert Summary
+## Part 2 - CI/CD Concepts
 
 Insert Instructions
 
 ---
 
-## Part 3 - Insert Summary
+## Part 3 - Containerization Concepts
 
 Insert Instructions
