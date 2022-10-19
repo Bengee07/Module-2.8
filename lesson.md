@@ -17,6 +17,9 @@ IT software deployment is a necessity in any organization’s IT environment. So
 
 ## Part 1 - Software Deployment
 
+![image](https://user-images.githubusercontent.com/106639884/196574599-ebf29e72-0415-49a6-a910-62ded2f78204.png)
+
+
 Software deployment involves all the activities required to get a software system or application ready for use on a device or a server. Software deployment is also commonly known as application deployment. Using software deployment software will help to ensure that all applications in your organization’s environment operate smoothly.
 
 ### Deployment Methodologies
