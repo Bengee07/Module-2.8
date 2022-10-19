@@ -17,10 +17,34 @@ IT software deployment is a necessity in any organization’s IT environment. So
 
 ## Part 1 - Software Deployment
 
-![image](https://user-images.githubusercontent.com/106639884/196574599-ebf29e72-0415-49a6-a910-62ded2f78204.png)
+![image](https://user-images.githubusercontent.com/106639884/196575951-1401e0c1-443d-4c18-83b4-e89a992ce08d.png)
 
 
 Software deployment involves all the activities required to get a software system or application ready for use on a device or a server. Software deployment is also commonly known as application deployment. Using software deployment software will help to ensure that all applications in your organization’s environment operate smoothly.
+
+The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software. in detail, the SDLC methodology focuses on the following phases of software development:
+
+### Main 6 stages of SDLC
+
+**1. Identify the Current Problems**
+“What are the current problems?” This stage of the SDLC means getting input from all stakeholders, including customers, salespeople, industry experts, and programmers. Learn the strengths and weaknesses of the current system with improvement as the goal.
+
+**2. Plan**
+“What do we want?” In this stage of the SDLC, the team determines the cost and resources required for implementing the analyzed requirements. It also details the risks involved and provides sub-plans for softening those risks.
+
+**3. Design**
+“How will we get what we want?” This phase of the SDLC starts by turning the software specifications into a design plan called the Design Specification.
+
+**4. Build**
+“Let’s create what we want.” At this stage, the actual development starts. It’s important that every developer sticks to the agreed blueprint.
+
+**5. Code Test**
+“Did we get what we want?” In this stage, we test for defects and deficiencies. We fix those issues until the product meets the original specifications.
+
+**6.Deployment & Maintenance**
+“Let’s start using what we got.”At this stage, the goal is to deploy the software to the production environment so users can start using the product. The plan rarely turns out perfect when it meets reality. Further, as conditions in the real world change, we need to update and advance the software to match.
+
+SDLC is a process followed for a software project, within a software organization. It consists of a detailed plan describing how to develop, maintain, replace, and alter or enhance specific software. The life cycle defines a methodology for improving the quality of software and the overall development process.
 
 ### Deployment Methodologies
 
@@ -40,29 +64,6 @@ Basic deployment is the simplest type of software deployment. This type updates 
 Blue-green deployment starts by having the original environment plus a duplicate environment. This enables you to preserve the old environment while deploying the new application simultaneously.
 
 Once the new application is deployed, make sure that everything runs properly. If any issues crop up, traffic can be redirected to the old environment so that it continues to run seamlessly. When you’ve determined that the new environment is free of issues, you can switch back to the new environment and then end the old environment.
-
-### 5 Stages of a software deployment process
-
-**Plan**
-
-The first stage in a software deployment process is to make a plan. What software or application are you attempting to deploy? How many end-users do you have? What risks are involved? Be sure to consider these questions and more while creating your plan for software deployment.
-
-**Design**
-
-After making a plan for how to best approach the software deployment, design how your plan will be carried out effectively. Which kind of deployment will be the safest for your business’s data and operations? Do your end-users need to have the updated software simultaneously, or can software deployment be rolled out slowly? These goals can be accomplished through the different deployment types listed above.
-
-**Test**
-
-Various factors can go wrong with any new software deployment. One of the best ways to ensure that things don’t go awry in your IT environment is to create a test environment. Use simulations that imitate or are identical to your business’s actual. This testing allows you to detect any previously hidden issues before and ensure that the software is completely functional.
-
-**Schedule**
-
-Break your plan for software deployment into manageable-sized tasks. Then, using team members or automated software, create a schedule for when each of these tasks should be completed. Abiding by a schedule and assigning tasks out makes the software deployment process much more feasible and results in far fewer problems.
-
-**Deploy**
-
-The final stage is to deploy the software to your endpoints finally. If you’ve mindfully carried out the previous steps, sending out the software or patches should go smoothly.
-
 
 ---
 
