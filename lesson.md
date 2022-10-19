@@ -27,24 +27,31 @@ The Software Development Life Cycle (SDLC) refers to a methodology with clearly 
 ### Main 6 stages of SDLC
 
 **1. Identify the Current Problems**
+
 “What are the current problems?” This stage of the SDLC means getting input from all stakeholders, including customers, salespeople, industry experts, and programmers. Learn the strengths and weaknesses of the current system with improvement as the goal.
 
 **2. Plan**
+
 “What do we want?” In this stage of the SDLC, the team determines the cost and resources required for implementing the analyzed requirements. It also details the risks involved and provides sub-plans for softening those risks.
 
 **3. Design**
+
 “How will we get what we want?” This phase of the SDLC starts by turning the software specifications into a design plan called the Design Specification.
 
 **4. Build**
+
 “Let’s create what we want.” At this stage, the actual development starts. It’s important that every developer sticks to the agreed blueprint.
 
 **5. Code Test**
+
 “Did we get what we want?” In this stage, we test for defects and deficiencies. We fix those issues until the product meets the original specifications.
 
 **6.Deployment & Maintenance**
+
 “Let’s start using what we got.”At this stage, the goal is to deploy the software to the production environment so users can start using the product. The plan rarely turns out perfect when it meets reality. Further, as conditions in the real world change, we need to update and advance the software to match.
 
 SDLC is a process followed for a software project, within a software organization. It consists of a detailed plan describing how to develop, maintain, replace, and alter or enhance specific software. The life cycle defines a methodology for improving the quality of software and the overall development process.
+
 
 ### Deployment Methodologies
 
