@@ -64,7 +64,7 @@ The most popular Agile Methodology is SCRUM, but it is not the only methodology.
 
 ### The Agile Manifesto
 
-<img src="./assets/manifesto.png" />
+![image](https://user-images.githubusercontent.com/106639884/199368038-8eac5be5-6e52-42cc-a155-1ae55e07d16b.png)
 
 1. Processes and Tools are not as agile as human beings.
 1. Intuitive software is better than excessive documentation.
@@ -75,7 +75,7 @@ The most popular Agile Methodology is SCRUM, but it is not the only methodology.
 
 ### 12 Principles of Agile
 
-<img src="./assets/12-principles.webp" />
+![image](https://user-images.githubusercontent.com/106639884/199368054-53f1a3b8-5270-4828-b309-766d21a5a425.png)
 
 The 12 principles applies to every agile methodologies.
 
@@ -83,7 +83,7 @@ The 12 principles applies to every agile methodologies.
 
 SCRUM is one of the many Agile Methodologies.
 
-<img src="./assets/scrum.webp" style="background-color:white;"/>
+![image](https://user-images.githubusercontent.com/106639884/199368069-350bd5eb-c8d0-41eb-a42c-632fc6cfc7f6.png)
 
 In SCRUM, there are four meetings:
 
