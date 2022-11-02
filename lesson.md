@@ -116,7 +116,7 @@ With containerization technology, there’s less overhead during startup and no 
 
 **Containerization will be sharpen on Module 3**
 
-## Part 3 - Deployment Methodologies
+## Part 4 - Deployment Methodologies
 
 Selecting a methodology to establish a framework in which the steps of software development are applied. It describes an overall work process or roadmap for the project. Methodologies can include Agile development, DevOps, Rapid Application Development (RAD), Scaled Agile Framework (SAFe), Waterfall and others.
 
