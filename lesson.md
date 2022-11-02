@@ -53,7 +53,70 @@ The Software Development Life Cycle (SDLC) refers to a methodology with clearly 
 SDLC is a process followed for a software project, within a software organization. It consists of a detailed plan describing how to develop, maintain, replace, and alter or enhance specific software. The life cycle defines a methodology for improving the quality of software and the overall development process.
 
 
-### Deployment Methodologies
+## Group Activity - Define the activity on the SDLC.
+
+You already learned about SDLC, with all the stages, as part of your group define and make key activity that you will do on the SDLC stages.
+
+|Stage|Activity|
+|-|-|
+|Requirement Analysis|_Key activity here_|
+|Planning|_Key activity here_|
+|Design|_Key activity here_|
+|Build|_Key activity here_|
+|Code Testing|_Key activity here_|
+|Deployment / Maintenance|_Key activity here_|
+
+---
+
+### Types of software deployment
+
+**Basic Deployment**
+
+Basic deployment is the simplest type of software deployment. This type updates all the target environments simultaneously without any process or strategy. Because it doesn’t deploy software in a slow and controlled manner, it is the riskiest.
+
+**Blue-Green Deployment**
+
+Blue-green deployment starts by having the original environment plus a duplicate environment. This enables you to preserve the old environment while deploying the new application simultaneously.
+
+Once the new application is deployed, make sure that everything runs properly. If any issues crop up, traffic can be redirected to the old environment so that it continues to run seamlessly. When you’ve determined that the new environment is free of issues, you can switch back to the new environment and then end the old environment.
+
+---
+
+
+## Part 2 - CI/CD Concepts - **CICD will be sharpen on Module 3**
+
+CI and CD stand for continuous integration and continuous delivery/continuous deployment. In very simple terms, CI is a modern software development practice in which incremental code changes are made frequently and reliably. Automated build-and-test steps triggered by CI ensure that code changes being merged into the repository are reliable. The code is then delivered quickly and seamlessly as a part of the CD process. In the software world, the CI/CD pipeline refers to the automation that enables incremental code changes from developers’ desktops to be delivered quickly and reliably to production.
+
+CI/CD allows organizations to ship software quickly and efficiently. CI/CD facilitates an effective process for getting products to market faster than ever before, continuously delivering code into production, and ensuring an ongoing flow of new features and bug fixes via the most efficient delivery method. 
+
+![image](https://user-images.githubusercontent.com/106639884/196317207-2181407b-83a8-4c47-990d-4d2d1703c9d6.png)
+
+
+![image](https://user-images.githubusercontent.com/106639884/196323086-5186d386-c140-47c9-96e7-d5d04b09a38a.png)
+
+
+### CICD Tools
+![image](https://user-images.githubusercontent.com/106639884/196317255-28111830-170b-48d1-929f-229fac39b2f1.png)
+
+
+**CICD will be sharpen on Module 3**
+
+---
+
+## Part 3 - Containerization Concepts
+
+Containerization is a form of virtualization where applications run in isolated user spaces, called containers, while using the same shared operating system (OS). One of the benefits of containerization is that a container is essentially a fully packaged and portable computing environment.
+
+Everything an application needs to run—its binaries, libraries, configuration files, and dependencies—is encapsulated and isolated in its container. The container itself is abstracted away from the host OS, with only limited access to underlying resources—much like a lightweight virtual machine (VM). As a result, the containerized application can be run on various types of infrastructure—on bare metal, within VMs, and in the cloud—without needing to refactor it for each environment.
+
+With containerization technology, there’s less overhead during startup and no need to set up a separate guest OS for each application since they all share the same OS kernel. Because of this high efficiency, containerization is commonly used for packaging up the many individual microservices that make up modern apps.
+
+![image](https://user-images.githubusercontent.com/106639884/196323476-2f099a1f-da3e-4f1b-858c-809b3efbd741.png)
+
+
+**Containerization will be sharpen on Module 3**
+
+## Part 3 - Deployment Methodologies
 
 Selecting a methodology to establish a framework in which the steps of software development are applied. It describes an overall work process or roadmap for the project. Methodologies can include Agile development, DevOps, Rapid Application Development (RAD), Scaled Agile Framework (SAFe), Waterfall and others.
 
@@ -93,71 +156,6 @@ In SCRUM, there are four meetings:
 1. *Sprint Retrospective* - Plan ways to increase quality and effectiveness. (1 to 3 hours)
 
 Source: https://www.scrum.org/resources/what-is-scrum
-
-
-## Group Activity - Define the activity on the SDLC.
-
-You already learned about SDLC, with all the stages, as part of your group define and make key activity that you will do on the SDLC stages.
-
-|Stage|Activity|
-|-|-|
-|Requirement Analysis|_Key activity here_|
-|Planning|_Key activity here_|
-|Design|_Key activity here_|
-|Build|_Key activity here_|
-|Code Testing|_Key activity here_|
-|Deployment / Maintenance|_Key activity here_|
-
-
----
-
-### Types of software deployment
-
-**Basic Deployment**
-
-Basic deployment is the simplest type of software deployment. This type updates all the target environments simultaneously without any process or strategy. Because it doesn’t deploy software in a slow and controlled manner, it is the riskiest.
-
-**Blue-Green Deployment**
-
-Blue-green deployment starts by having the original environment plus a duplicate environment. This enables you to preserve the old environment while deploying the new application simultaneously.
-
-Once the new application is deployed, make sure that everything runs properly. If any issues crop up, traffic can be redirected to the old environment so that it continues to run seamlessly. When you’ve determined that the new environment is free of issues, you can switch back to the new environment and then end the old environment.
-
----
-
-## Part 2 - CI/CD Concepts - **CICD will be sharpen on Module 3**
-
-CI and CD stand for continuous integration and continuous delivery/continuous deployment. In very simple terms, CI is a modern software development practice in which incremental code changes are made frequently and reliably. Automated build-and-test steps triggered by CI ensure that code changes being merged into the repository are reliable. The code is then delivered quickly and seamlessly as a part of the CD process. In the software world, the CI/CD pipeline refers to the automation that enables incremental code changes from developers’ desktops to be delivered quickly and reliably to production.
-
-CI/CD allows organizations to ship software quickly and efficiently. CI/CD facilitates an effective process for getting products to market faster than ever before, continuously delivering code into production, and ensuring an ongoing flow of new features and bug fixes via the most efficient delivery method. 
-
-![image](https://user-images.githubusercontent.com/106639884/196317207-2181407b-83a8-4c47-990d-4d2d1703c9d6.png)
-
-
-![image](https://user-images.githubusercontent.com/106639884/196323086-5186d386-c140-47c9-96e7-d5d04b09a38a.png)
-
-
-### CICD Tools
-![image](https://user-images.githubusercontent.com/106639884/196317255-28111830-170b-48d1-929f-229fac39b2f1.png)
-
-
-**CICD will be sharpen on Module 3**
-
----
-
-## Part 3 - Containerization Concepts
-
-Containerization is a form of virtualization where applications run in isolated user spaces, called containers, while using the same shared operating system (OS). One of the benefits of containerization is that a container is essentially a fully packaged and portable computing environment.
-
-Everything an application needs to run—its binaries, libraries, configuration files, and dependencies—is encapsulated and isolated in its container. The container itself is abstracted away from the host OS, with only limited access to underlying resources—much like a lightweight virtual machine (VM). As a result, the containerized application can be run on various types of infrastructure—on bare metal, within VMs, and in the cloud—without needing to refactor it for each environment.
-
-With containerization technology, there’s less overhead during startup and no need to set up a separate guest OS for each application since they all share the same OS kernel. Because of this high efficiency, containerization is commonly used for packaging up the many individual microservices that make up modern apps.
-
-![image](https://user-images.githubusercontent.com/106639884/196323476-2f099a1f-da3e-4f1b-858c-809b3efbd741.png)
-
-
-**Containerization will be sharpen on Module 3**
-
 
 ## Class Activity (What are agile user stories?)
 
