@@ -120,7 +120,7 @@ Once the new application is deployed, make sure that everything runs properly. I
 
 ---
 
-## Part 2 - CI/CD Concepts
+## Part 2 - CI/CD Concepts - **CICD will be sharpen on Module 3**
 
 CI and CD stand for continuous integration and continuous delivery/continuous deployment. In very simple terms, CI is a modern software development practice in which incremental code changes are made frequently and reliably. Automated build-and-test steps triggered by CI ensure that code changes being merged into the repository are reliable. The code is then delivered quickly and seamlessly as a part of the CD process. In the software world, the CI/CD pipeline refers to the automation that enables incremental code changes from developers’ desktops to be delivered quickly and reliably to production.
 
@@ -153,3 +153,18 @@ With containerization technology, there’s less overhead during startup and no 
 
 **Containerization will be sharpen on Module 3**
 
+## Group Activity - Define the activity on the SDLC.
+
+You already learned about SDLC, with all the stages, as part of your group define and make key activity that you will do on the SDLC stages.
+
+|Stage|Activity|
+|-|-|
+|Requirement Analysis|_Key activity here_|
+|Planning|_Key activity here_|
+|Design|_Key activity here_|
+|Build|_Key activity here_|
+|Code Testing|_Key activity here_|
+|Deployment / Maintenance|_Key activity here_|
+
+
+---
