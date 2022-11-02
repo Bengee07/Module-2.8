@@ -94,17 +94,22 @@ In SCRUM, there are four meetings:
 
 Source: https://www.scrum.org/resources/what-is-scrum
 
-## Class Activity (What are agile user stories?)
 
-|Action|Duration|Outcome|
-|----|--------|-------|
-|Learners self Reading for this [link](https://www.atlassian.com/agile/project-management/user-stories).|10 mins|Learners have a brief understanding of what agile user stories are.
-|Instructor facilitate students to answer three questions by getting students to type in chat.|20 mins|Summarizes and highlight the good inputs from student.|
+## Group Activity - Define the activity on the SDLC.
 
-Three Questions:
-1. What are user stories?
-1. Why user stories?
-1. Think and provide an example of a user story.
+You already learned about SDLC, with all the stages, as part of your group define and make key activity that you will do on the SDLC stages.
+
+|Stage|Activity|
+|-|-|
+|Requirement Analysis|_Key activity here_|
+|Planning|_Key activity here_|
+|Design|_Key activity here_|
+|Build|_Key activity here_|
+|Code Testing|_Key activity here_|
+|Deployment / Maintenance|_Key activity here_|
+
+
+---
 
 ### Types of software deployment
 
@@ -153,18 +158,15 @@ With containerization technology, there’s less overhead during startup and no 
 
 **Containerization will be sharpen on Module 3**
 
-## Group Activity - Define the activity on the SDLC.
 
-You already learned about SDLC, with all the stages, as part of your group define and make key activity that you will do on the SDLC stages.
+## Class Activity (What are agile user stories?)
 
-|Stage|Activity|
-|-|-|
-|Requirement Analysis|_Key activity here_|
-|Planning|_Key activity here_|
-|Design|_Key activity here_|
-|Build|_Key activity here_|
-|Code Testing|_Key activity here_|
-|Deployment / Maintenance|_Key activity here_|
+|Action|Duration|Outcome|
+|----|--------|-------|
+|Learners self Reading for this [link](https://www.atlassian.com/agile/project-management/user-stories).|10 mins|Learners have a brief understanding of what agile user stories are.
+|Instructor facilitate students to answer three questions by getting students to type in chat.|20 mins|Summarizes and highlight the good inputs from student.|
 
-
----
+Three Questions:
+1. What are user stories?
+1. Why user stories?
+1. Think and provide an example of a user story.
