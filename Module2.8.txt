@@ -1,0 +1,19 @@
+Module 2.8
+
+1. Discuss within your group about what the project scenario is e.g. “We are working for an ride-hailing company”.
+We are working for a banking app company
+
+2.Discuss within your group about what methodology you will use e.g. Agile/ Waterfall.
+We are using the Agile Methodology, as we can push out simple features as and when we produce and improve our app whenever we create a new feature. 
+
+3.When it comes to deployment, discuss what software deployment strategy you will use and why.
+Rolling deployment is simple to roll back, less risky deployment method, and the implementation is simple. As a bank we need to ensure if anything goes wrong we can quickly roll back and keep the service up.
+
+4.Discuss what CI/CD Pipeline tools that you will use.
+We will be using Jira > Slack > Github > Jenkins >Terraform & Anisible
+CI would be Jenkins and Terraform and Anisible for CD.
+
+5.Discuss a simple pipeline that you will use and describe it on diagram.
+https://www.pinterest.com/pin/220043131787641782/visual-search/?x=16&y=16&w=532&h=667&cropSource=6&surfaceType=flashlight
+
+Link sample of our plan.
